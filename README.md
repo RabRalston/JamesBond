@@ -8,6 +8,8 @@ npm install
 
 # Run Project
 
+Go to JamesBond folder
+npm install
 npm start
 
 # Misc
